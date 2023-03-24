@@ -1,9 +1,9 @@
 on: [push]
 
 env:
-  VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-  VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-  NEXT_PUBLIC_BASE_URL: ${{ secrets.VERCEL_APP_URL }}
+  VERCEL_ORG_ID: ${{ prj_CSBo2GMkFJ6cVeswglCP4k3GhZhM }}
+  VERCEL_PROJECT_ID: ${{ CkdMFZvggo7YsYB5I1zBFH08 }}
+  NEXT_PUBLIC_BASE_URL: ${{ mwu6fVH3CbclGVJvHmn6RbYl }}
   
 jobs:
   Deploy-Preview:
